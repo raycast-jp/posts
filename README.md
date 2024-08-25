@@ -3,7 +3,6 @@ posts for zenn, etc...
 
 ## 手順
 
-
   👇  新しい記事を作成する
   `npx zenn new:article`
 
