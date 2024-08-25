@@ -23,6 +23,12 @@ published: false
 
 Raycast Community Japanは、2024/07/05(金)、Macbee Planet社内のtimesの呟きから始まる。
 ![](/images/how-to-host-beta-event/meetup-0-slack0.png)
+去年の冬くらいからRaycastはY Combinator同期がオフラインのmeetupを実施する話を受けてRaycast社員がRaycastでもやりたいな〜という発言をしていた。
+また世界でいくつかRaycastユーザー同士が数人で集まってmeetupをやる現象が見られるようなっていた。
+この呟くをする直前に、Raycastが公式のmeetupを本社を構えるLondonでやるというアナウンスがあったのである。
+@[tweet](https://x.com/raycastapp/status/1809225774987395546)
+
+同僚の山口さんの後押しを受けて一緒に日本コミュニティを非公式で立ち上げることを決めた瞬間であった。
 そして僕が昨年からハッカソンでお世話になっているシンギュラリティ・ソサエティのSlackを間借りして企画運営を始めることになった。
 ![](/images/how-to-host-beta-event/meetup-0-slack1.png)
 
