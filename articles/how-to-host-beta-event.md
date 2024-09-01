@@ -37,7 +37,6 @@ Raycast Community Japanは、2024/07/05(金)、Macbee Planet社内のtimesの呟
 そして僕が昨年からハッカソンでお世話になっているシンギュラリティ・ソサエティのSlackを間借りして企画運営を始めることになった。
 ![](/images/how-to-host-beta-event/meetup-0-slack1.png)
 
-
 ### 1.2 イベントの概要
 
 Raycast日本コミュニティの目的は次のように設定している。
