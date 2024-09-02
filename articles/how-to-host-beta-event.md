@@ -28,13 +28,13 @@ Raycast日本コミュニティをなぜ立ち上げたのか、何を目指し�
 
 ### 1.1 背景
 #### Raycast日本コミュニティをなぜ立ち上げたのか？
-僕は、2022年夏下記のPodcastでRatcastに出会う。
+僕は、2022年夏下記のPodcastでRatcastに出会いました。
 [ランチャーアプリ Raycast はフロントエンドエンジニアこそ使いたい | LINE UIT INSIDE](https://uit-inside.linecorp.com/episode/114)
 そこからずっと大ファンで気づけばRaycast ExtensionsのOSS Contributorになったり、息を吸うように社内布教に情熱を注ぐようになっていました。
 
 Raycast Community Japanは、2024/07/05(金)、Macbee Planet社内のtimesの呟きから始まリました。
 ![](/images/how-to-host-beta-event/meetup-0-slack0.png)
-去年の冬くらいからRaycastはY Combinator同期がオフラインのmeetupを実施する話を受けてRaycast社員がRaycastでもやりたいな〜という発言をしておりました。
+2023年の冬くらいからRaycastはY Combinator同期がオフラインのmeetupを実施する話を受けてRaycast社員がRaycastでもやりたいな〜という発言をしておりました。
 また世界でいくつかRaycastユーザー同士が数人で集まってmeetupをやる現象が見られるようなっていました。
 この呟きをする直前に、Raycastが公式のmeetupを本社を構えるLondonでやるというアナウンスがありました。
 @[tweet](https://x.com/raycastapp/status/1809225774987395546)
@@ -101,12 +101,12 @@ Raycastがglobalで熱狂的なユーザーを多数抱えていることは自�
   - 支援スポンサー
 
 ネットワークエフェクトの観点で会場は企業の会場を借りたいと思いました。
-僕はX(Twitter)で見つけた最近できた素晴らしい会場`docomo R&D OPEN LAB ODAIBA`に直接メールを送った。
+僕はX(Twitter)で見つけた最近できた素晴らしい会場`docomo R&D OPEN LAB ODAIBA`に直接メールを送りました。
 するとRaycastを使っているドコモ社員の方がいて会場を貸してくれる上に運営を手伝ってただけることになりました。
 
 [ここからはじめる、次の未来。docomo R&D OPEN LAB ODAIBA開業記念インタビュー](https://docomo-openlab.jp/94/)
 
-会社のtimesでこうした活動を呟きまくっていたら上司から会社としてサポートしたいという申し出がありました。会社は採用ブランディングの観点で社外発信や社外イベントをやっていきたいという流れが生まれており支援したいというのです。その時ケータリングスポンサーがいないのでケータリングの費用をお出ししていただくことになりました。
+私の会社のSlackのtimesチャンネルでこうした活動を呟きまくっていたら上司から会社としてサポートしたいという申し出がありました。会社は採用ブランディングの観点で社外発信や社外イベントをやっていきたいという流れが生まれており支援したいというのです。その時ケータリングスポンサーがいないのでケータリングの費用をお出ししていただくことになりました。
 
 これで次のスポンサーが全て揃うことになります。
 
