@@ -3,7 +3,7 @@ title: "Raycast日本コミュニティのベータ版イベントでスポン�
 emoji: "👏"
 type: "tech"
 topics: ["Raycast", "コミュニティ", "DevRel", "OSS"]
-published: false
+published: true
 ---
 
 # Raycast日本コミュニティのベータ版イベントでスポンサー付きで、30名超で開催するためにやったこと
