@@ -29,7 +29,7 @@ Raycast日本コミュニティをなぜ立ち上げたのか、何を目指し�
 
 ### 1.1 背景
 #### Raycast日本コミュニティをなぜ立ち上げたのか？
-僕は、2022年夏下記のPodcastでRatcastに出会いました。
+僕は、2022年夏下記のPodcastでRaycastに出会いました。
 [ランチャーアプリ Raycast はフロントエンドエンジニアこそ使いたい | LINE UIT INSIDE](https://uit-inside.linecorp.com/episode/114)
 そこからずっと大ファンで気づけばRaycast ExtensionsのOSS Contributorになったり、息を吸うように社内布教に情熱を注ぐようになっていました。
 
