@@ -4,6 +4,7 @@ emoji: "👏"
 type: "tech"
 topics: ["Raycast", "コミュニティ", "DevRel", "OSS"]
 published: true
+publication_name: "raycast_jp"
 ---
 
 # Raycast日本コミュニティのベータ版イベントでスポンサー付きで、30名超で開催するためにやったこと
