@@ -1,5 +1,5 @@
 ---
-title: "Raycast日本コミュニティのXアカウントの日々の投稿を自動化した"
+title: "Raycast日本コミュニティのX(Twitter)アカウントの日々の投稿を自動化した"
 emoji: "🎉"
 type: "tech"
 topics: []
