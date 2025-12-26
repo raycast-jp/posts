@@ -61,6 +61,8 @@ please convert following input into markdown table
 対象の文章を選択して作成したコマンドを実行すると下記のような文章が生成されます。
 AIモデルは品質重視で`Claude 4.5 Sonnet`にしています。
 
+![](/images/raycast-ai-commands/raycast-ai-command-1.png)
+
 **After:**
 
 `# リポジトリ構成の悩み - 観点整理`
@@ -86,9 +88,6 @@ AIモデルは品質重視で`Claude 4.5 Sonnet`にしています。
 
 このように、整理されていなかった思考が表形式で可視化され、比較検討しやすくなりました。AIの力を借りることで、思考の整理が進み、意思決定の材料が明確になります。
 
-![](/images/raycast-ai-commands/raycast-ai-command-1.png)
-
-
 ### 2. 英作文を添削する
 SlackやGitHubで英語でコミュニケーションを取る際、文法や誤字をチェックするのに便利です。
 Raycastにデフォルトで用意されているコマンドで、選択した英文を添削してくれます。
@@ -105,12 +104,14 @@ It's ok to host meetup on oct 29
 **使用するコマンド:**
 `Fix Spelling and Grammar`
 
+実行すると次のような結果が得られます
+
+![](/images/raycast-ai-commands/raycast-ai-command-3.png)
+
 **After:**
 ```
 It's okay to host a meetup on October 29.
 ```
-
-![](/images/raycast-ai-commands/raycast-ai-command-3.png)
 
 文法の間違いや誤字、冠詞の抜けなどを自動で修正してくれます。そのまま上書きして送信できるため、英語でのコミュニケーションがスムーズになります。
 
@@ -155,9 +156,11 @@ Output Format
 {selection}
 ```
 
+実行すると次のような結果が得られます
+
+![](/images/raycast-ai-commands/raycast-ai-command-4.png)
+
 **After:**
 `This PR implements user authentication. It adds session management using JWT tokens and an automatic refresh token update feature.`
 
 入力言語を自動判別し、適切な言語に翻訳してくれます。AIモデルは速度と品質のバランスが良かったため`Gemini 2.5 Flash Lite`にしています。
-![](/images/raycast-ai-commands/raycast-ai-command-4.png)
-
