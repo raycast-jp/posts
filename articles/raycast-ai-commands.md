@@ -49,7 +49,9 @@ GoogleやFacebookはmonorepo派だけど、うちのチームの規模だとど�
 **使用するコマンド:**
 `Convert to Markdown Table`
 
-このコマンドを使用するには`Create AI Command`を使用して下記を設定します
+このコマンドを使用するには、Raycastで`Create AI Command`を実行してカスタムコマンドを作成します。
+Prompts欄に下記のプロンプトを入力してください（`{argument}`や`{selection}`はRaycastの変数構文で、そのまま記述します）：
+
 ```
 {argument name="指示" default=""}
 please convert following input into markdown table
@@ -91,7 +93,7 @@ AIモデルは品質重視で`Claude 4.5 Sonnet`にしています。
 ### 2. 英作文を添削する
 SlackやGitHubで英語でコミュニケーションを取る際、文法や誤字をチェックするのに便利です。
 Raycastにデフォルトで用意されているコマンドで、選択した英文を添削してくれます。
-特にSlackで海外の方と半ば同期的にやり取りするときに毎回翻訳アプリを経由すると遅いのでこのコマンドが重宝しています。
+特にSlackで海外の方とリアルタイムでやり取りするときに、毎回翻訳アプリを経由すると遅いので、このコマンドが重宝しています。
 
 ![](/images/raycast-ai-commands/raycast-ai-command-2.png)
 
@@ -123,7 +125,11 @@ Raycastを使えば、どのアプリでも選択した箇所を瞬時に翻訳�
 
 `このPRでは、ユーザー認証機能を実装しました。JWTトークンを使用したセッション管理と、リフレッシュトークンの自動更新機能を追加しています。`
 
-このコマンドを使用するには`Create AI Command`を使用して下記を設定します
+**使用するコマンド:**
+`Translation`（カスタムコマンド）
+
+このコマンドを使用するには、`Create AI Command`からカスタムコマンドを作成し、Prompts欄に下記のプロンプトを設定します：
+
 ```
 Translation Rules
 
@@ -163,4 +169,24 @@ Output Format
 **After:**
 `This PR implements user authentication. It adds session management using JWT tokens and an automatic refresh token update feature.`
 
-入力言語を自動判別し、適切な言語に翻訳してくれます。AIモデルは速度と品質のバランスが良かったため`Gemini 2.5 Flash Lite`にしています。
+入力言語を自動判別し、適切な言語に翻訳してくれます。AIモデルは速度と品質のバランスが良かったため`Gemini 2.0 Flash`にしています。
+
+## まとめ
+
+本記事では、Raycast AI Commandsを使った3つの実践的な活用例を紹介しました：
+
+1. **箇条書きを表形式に変換**: 雑多な思考を整理された表に変換し、意思決定をサポート
+2. **英作文を添削**: リアルタイムなコミュニケーションで文法ミスを即座に修正
+3. **翻訳機能**: 日英間の翻訳を任意のアプリケーション上で瞬時に実行
+
+Raycast AI Commandsの最大の魅力は、**システム全体でどこからでも呼び出せる**という点です。ブラウザ、エディタ、Slackなど、文章を書くあらゆる場面で活用できます。
+
+カスタムコマンドを作成することで、自分の業務フローに最適化されたAIアシスタントを構築できます。ぜひ皆さんも試してみてください！
+
+### Raycast AI Commandsを始めるには
+
+- [Raycast公式サイト](https://www.raycast.com/)からアプリをダウンロード
+- AI機能の利用には[Raycast Pro](https://www.raycast.com/pro)（有料プラン）が必要です(無料枠あり)
+- [Raycast日本コミュニティ](https://raycast-jp.com/)では、Tipsや質問を共有しています
+
+皆さんの活用事例もぜひ教えてください！！
