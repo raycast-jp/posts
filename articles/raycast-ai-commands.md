@@ -33,8 +33,18 @@ Raycast AI Commandは、Raycast内でAIを活用できる機能です。
 議事録やメモを箇条書きで書いた後、表形式に整形したい時によく使います。
 例えば開発をしていると設計に悩むことがあり一度言語化して整理することがあります。
 例としてプロジェクトのリポジトリ構成に悩んでいると仮定してみます。
+
 **Before:**
-プロジェクトのリポジトリ構成をどうするか悩んでいる。フロントエンド、ミドルウェア、バックエンドの3つのコンポーネントがあって、monorepoにするかpolyrepoにするか決めないといけない。小規模で素早い反復開発を優先するならmonorepoが良さそうだし、大規模で安定性を重視するならpolyrepoかな。GoogleやFacebookはmonorepo派だけど、うちのチームの規模だとどっちが適切なんだろう。今後の成長も考えないといけないし、CI/CDパイプラインの調整も必要になるよな...
+
+```
+プロジェクトのリポジトリ構成をどうするか悩んでいる。
+フロントエンド、ミドルウェア、バックエンドの3つのコンポーネントがあって、
+monorepoにするかpolyrepoにするか決めないといけない。
+小規模で素早い反復開発を優先するならmonorepoが良さそうだし、
+大規模で安定性を重視するならpolyrepoかな。
+GoogleやFacebookはmonorepo派だけど、うちのチームの規模だとどっちが適切なんだろう。
+今後の成長も考えないといけないし、CI/CDパイプラインの調整も必要になるよな...
+```
 
 **使用するコマンド:**
 `Convert to Markdown Table`
@@ -100,7 +110,7 @@ It's ok to host meetup on oct 29
 It's okay to host a meetup on October 29.
 ```
 
-![](/images/raycast-ai-commands/raycast-ai-command-4.png)
+![](/images/raycast-ai-commands/raycast-ai-command-3.png)
 
 文法の間違いや誤字、冠詞の抜けなどを自動で修正してくれます。そのまま上書きして送信できるため、英語でのコミュニケーションがスムーズになります。
 
