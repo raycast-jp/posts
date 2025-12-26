@@ -3,7 +3,7 @@ title: "Raycast AI Commandで日々の文章作成を効率化する実践テク
 emoji: "✨"
 type: "tech"
 topics: ["Raycast", "AI", "生産性"]
-published: false
+published: true
 publication_name: "raycast_jp"
 ---
 
