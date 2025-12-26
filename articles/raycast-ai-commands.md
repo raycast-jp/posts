@@ -11,10 +11,9 @@ publication_name: "raycast_jp"
 
 ## はじめに
 こんにちは！Raycast日本コミュニティの[矢野](https://x.com/nagauta_jp)です。
-最近はRaycastが当たり前になってきてどの機能がRaycastだったか忘れていることが悩みです。
-Raycastについては今年は特にRaycast AI Commandsにハマっていました。
-特に、書いた文章の整形やフォーマット変更を瞬時に行えるのが本当に便利です。
-本稿では、実際に日常的に使っているRaycast AI Commandの活用事例を紹介します。
+最近はRaycastが日常に溶け込みすぎて、どの機能がRaycastによるものか忘れてしまうことに悩んでいます。
+今年は特にRaycast AI Commandsにハマっており、書いた文章の整形やフォーマット変更を瞬時に行えるのが本当に便利だと感じています。
+本稿では、僕が実際に日常的に使っているRaycast AI Commandの活用事例を紹介します。
 
 ## Raycast AI Commandとは？
 Raycast AI Commandは、Raycast内でAIを活用できる機能です。
